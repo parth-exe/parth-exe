@@ -5,4 +5,5 @@
 - Fluent in C Programming Language.
 - Learning advanced python and working on discord bot using discord.py discord module.
 - Certification of Data Structures from University of California San Diego via Coursera.
+- Crash Course to Python Certification from Google via Coursera.
 
