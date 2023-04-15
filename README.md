@@ -1,5 +1,5 @@
 # 💫 About Me:
-19 years old;<br>Discord bot developer;<br>2nd year BTech Computer Science student;<br>Languages: Python, C and C++;<br>Skills: Git, GitHub, Bash ,REST APIs, SQL and GCP;<br>OS: Linux, Windows and MacOS<br>Automation, ML, DL and Cloud enthusiast;<br><br>
+19 years old;<br>Discord bot developer;<br>2nd year BTech Computer Science student;<br>Languages: Python, Java, C and C++;<br>Skills: Git, GitHub, Bash ,REST APIs, SQL and GCP;<br>OS: Linux, Windows and MacOS<br>Automation, ML, DL and Cloud enthusiast;<br><br>
 
 
 ## 🌐 Socials:
